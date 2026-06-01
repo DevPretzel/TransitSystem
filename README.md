@@ -5,3 +5,6 @@
 
 ### Testing
 * Uses JUnit testing
+
+### Who's this for?
+* This is simply a demonstration of my knowledge of Java and OOP
